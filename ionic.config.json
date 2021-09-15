@@ -1,0 +1,7 @@
+{
+  "name": "test-capacitor-firebase-authentication-pull-83",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
